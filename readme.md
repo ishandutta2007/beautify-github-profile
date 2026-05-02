@@ -1506,6 +1506,29 @@ Dynamic styled banners! Perfect for one liners!
 ![Noise Demo](https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Beautify+Readme)
 ---
 
+### 90 . [Wakadash](https://github.com/Anant-mishra1729/WakaDash)
+Tool that fetches your weekly WakaTime coding stats and generates charts and badges.
+
+📍 For example :
+
+###
+
+![Language Stats](https://github.com/Anant-mishra1729/WakaDash/blob/main/media/lang_stats.svg)
+![Weekly Stats](https://github.com/Anant-mishra1729/WakaDash/blob/main/media/day_wise_stats.svg)
+
+#### Badges
+<p align="center">
+  <img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/media/daily_avg_badge.svg" width="200">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/media/best_badge.svg" width="400">
+</p>
+
+
+
+---
+
 </details>
   
 ## ✅ Icons 👇
