@@ -1646,6 +1646,19 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-profile-readme-generator.gif">
 </p>
 
+### 10 . [coolreadme.xyz](https://coolreadme.xyz)
+Generate beautiful, dynamic GitHub profile cards in seconds — Netflix, X (Twitter), Twitch, Steam, TikTok styles plus animated pet streak cards (cat, dog, fox, owl, penguin) that level up through 9 stages from your real GitHub contributions. No signup, no API keys, free.
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://coolreadme.xyz/producthunt/defaults.png" alt="coolreadme.xyz — every README has the same 3 cards (anuraghazra/github-readme-stats, DenverCoder1/streak-stats, shields.io). coolreadme replaces them with live, animated cards." />
+</p>
+
+<p align="center">
+  <img src="https://coolreadme.xyz/api/cat-card?user=yerdaulet-damir&streak=247&longest=247&total=1840" alt="cat streak card — God tier" width="49%" />
+  <img src="https://coolreadme.xyz/api/cinematic?user=yerdaulet-damir&status=BUILDING+AI+AGENTS&focus=Agentic+workflows+%26+open-source&accent=%23A78BFA" alt="cinematic profile card" width="49%" />
+</p>
+
 ---
 
 </details>
