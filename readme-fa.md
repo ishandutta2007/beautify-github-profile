@@ -1393,19 +1393,19 @@ Moon.svg فاز فعلی ماه را به صورت لحظه‌ای نمایش م
   <img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/>  
 </p>  
 
-### 76. [Repo Roster](https://reporoster.com//)  
+### 76. [Repo Roster](http://reporoster.com/)  
 تشکر از حامیان خود در فایل README گیت‌هاب.
 
 📍 به عنوان مثال:  
 
 > ستارگان  
 <p align="center">  
-  <img src="https://reporoster.com/stars/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/stargazers"/>  
+  <img src="http://reporoster.com/stars/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/stargazers"/>  
 </p>  
 
 > فورکرها  
 <p align="center">  
-  <img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>  
+  <img src="http://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>  
 </p>  
 
 ### 77. [Moe Counter](https://github.com/journey-ad/Moe-Counter)  
