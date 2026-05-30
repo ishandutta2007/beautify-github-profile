@@ -1403,7 +1403,7 @@ A Stunning star history chart generator for Github Repositories
 
 📍 For example :
 <p align="center">
-  <img src="https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red" alt="Red Chart">
+  <img src="https://api.star-history.com/svg?repos=mdn/js-examples&type=Date" alt="Red Chart">
 </p>
 
 ### 79 . [Subreddit Memes](https://github.com/trinib/Subreddit-Memes)
