@@ -1525,9 +1525,15 @@ Tool that fetches your weekly WakaTime coding stats and generates charts and bad
   <img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/media/best_badge.svg" width="400">
 </p>
 
-
-
 ---
+
+### 91 . [Profile-stats](https://github.com/xlebovoz/Profile-stats)
+
+A simple badge to display your followers, stars, and repositories
+
+📍 For example :
+
+![GitHub Stats](https://profile-stats-xleb.vercel.app/api/badge.svg?username=torvalds&show_username=true&theme=coal)
 
 </details>
   
