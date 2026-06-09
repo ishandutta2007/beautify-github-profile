@@ -1428,6 +1428,173 @@ Tool that fetches your weekly WakaTime coding stats and generates charts and bad
 ![Language Stats](https://github.com/Anant-mishra1729/WakaDash/blob/main/media/lang_stats.svg)
 ![Weekly Stats](https://github.com/Anant-mishra1729/WakaDash/blob/main/media/day_wise_stats.svg)
 
+### 86 . [GitHub Wrapped](https://git-wrapped.com/)
+
+Your 2025 coding journey, visualized.
+
+📍 For example :
+
+[![](git-wrapped-rzashakeri.png)](https://git-wrapped.com/profiles/rzashakeri)
+
+### 86 . [Awesome GitHub Stats](https://github.com/brunobritodev/awesome-github-stats)
+
+Get an accurate data from your contributions and transform into a card to show at your GitHub profile README.
+
+📍 For example :
+
+![](https://awesome-github-stats.azurewebsites.net/user-stats/eduardopires?cardType=octocat)
+
+### 86 . [GitHub Contribution Card](https://github.com/FrancoStino/github-contribution-card)
+
+Dynamic SVG cards showing your GitHub repository contribution stats
+
+📍 For example :
+
+![](https://github-contribution-card.vercel.app/api?username=mitsuhiko&order_by=stars&limit=9)
+
+### 86 . [Wakatime Readme Stats](https://github.com/LauraAllObe/wakatimeReadmeStats)
+
+wakatimeReadmeStats lets you showcase pretty, customizable coding activity cards in your GitHub README.
+
+📍 For example :
+
+![](https://github.com/LauraAllObe/wakatimeReadmeStats/raw/main/static/cardGif1.gif)
+![](https://github.com/LauraAllObe/wakatimeReadmeStats/raw/main/static/cardGif2.gif)
+![](https://github.com/LauraAllObe/wakatimeReadmeStats/raw/main/static/cardGif3.gif)
+
+### 86 . [HyperWeave](https://github.com/InnerAura/hyperweave)
+
+GitHub profile stats, badges, star charts, icons, and more.
+
+📍 For example :
+
+![](https://hyperweave.app/v1/stats/eli64s/brutalist.static?variant=celadon)
+![](https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone&v=2)
+![](https://hyperweave.app/v1/marquee/readme-ai/primer.static?data=gh:eli64s/readme-ai.stars,gh:eli64s/readme-ai.forks,gh:eli64s/readme-ai.contributors,pypi:readmeai.downloads,gh:eli64s/readme-ai.last_push,pypi:readmeai.version,gh:eli64s/readme-ai.language&variant=porcelain)
+![](https://hyperweave.app/v1/icon/notion/chrome.static?shape=circle&variant=graphite)
+
+### 86 . [Gitly](https://github.com/Chintanpatel24/gitlyy)
+
+GitHub README stats for your profile and performance overview
+
+📍 For example :
+
+<img src="https://gitlyy.vercel.app/api/pr-stats?username=torvalds&layout=compact"/>
+<img src="https://gitlyy.vercel.app/api/contribution?username=torvalds"/>
+<img src="https://gitlyy.vercel.app/api/overview?username=torvalds"/>
+<img src="https://gitlyy.vercel.app/api/overview?username=torvalds"/>
+
+### 86 . [Readme Contribution Stats](https://github.com/amankumarhq/readme-contribution-stats)
+
+Dynamic SVG cards for your GitHub README displaying repositories where you've merged PRs.
+
+📍 For example :
+
+![](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=torvalds&type=repos&limit=6&sort=contributions&transparent=true&t=1780994113077)
+![](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=torvalds&type=repo&repo=subsurface%2Fsubsurface&transparent=true&t=1780994355597)
+![](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=torvalds&type=day&transparent=true&t=1780998594981)
+![](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=torvalds&type=hour&offset=2&transparent=true&t=1780998619229)
+
+### 86 . [Badge-It](https://github.com/pujux/badge-it)
+
+An API serving useful badges for your GitHub Profile README
+
+📍 For example :
+
+> Last Stars Display
+
+![](https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3)
+
+> Contributors
+
+![](https://badges.pufler.dev/contributors/rzashakeri/beautify-github-profile?size=50&padding=5&perRow=10&bots=true)
+
+### 86 . [GitHubCard](https://githubcard.com)
+
+A canvas editor with 20+ data widgets—drag, drop, and design unique GitHub profile and repo cards.
+
+📍 For example :
+
+![](https://githubcard.com/Cactusinhand.svg?d=JkKGFDBE&nocache=1)
+
+### 86 . [GitHub Starlines](https://github.com/qoomon/starlines)
+
+Create beautiful stargazers histograms of your repositories or gists
+
+📍 For example :
+
+![](https://starlines.qoo.monster/assets/qoomon)
+
+### 86 . [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+
+Generate visualizations of GitHub user and repository statistics with GitHub Actions. Visualizations can include data from private repositories, and from repositories you have contributed to, but do not own.
+
+📍 For example :
+
+<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+
+### 86 . [user-statistician](https://github.com/cicirello/user-statistician)
+
+user-statistician generates a detailed visual summary of your activity on GitHub in the form of an SVG, suitable to display on your GitHub Profile README.
+
+📍 For example :
+
+![](https://raw.githubusercontent.com/cicirello/user-statistician/samples/images/light.svg)
+
+### 86 . [GitHub Developer Score](https://github.com/yomi4486/github_stats)
+
+Generates a stats card with a "developer score" for your profile.
+
+📍 For example :
+
+![](https://github-stats-eta-two.vercel.app/api/stats/rzashakeri)
+
+### 86 . [My Badges](https://github.com/my-badges/my-badges)
+
+Google's Moma Badges for GitHub
+
+📍 For example :
+
+![](/my-badges.png)
+
+### 86 . [upptime](https://github.com/upptime/upptime)
+
+GitHub Actions uptime monitor & status page
+
+📍 For example :
+
+🟩 Up <img alt="Response time graph" src="https://raw.githubusercontent.com/upptime/upptime/master/graphs/google/response-time-week.png" height="20"> 79ms
+
+### 86 . [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats)
+
+Github action to print relevant stats about Pull Request reviewers
+
+📍 For example :
+
+![](https://raw.githubusercontent.com/flowwer-dev/pull-request-stats/refs/heads/dev/assets/historical.png)
+
+### 86 . [GitHub Language Stats](https://github.com/StefVuck/Github-Language-Stats)
+
+Language Stats of your Private AND Public repos for your Readme/Project.
+
+📍 For example :
+
+![](https://raw.githubusercontent.com/StefVuck/Github-Language-Stats/refs/heads/main/examples/light-filtered/leaderboard_by_lines.png)
+![](https://raw.githubusercontent.com/StefVuck/Github-Language-Stats/refs/heads/main/examples/dark-filtered/bar_by_repos.png)
+
+### 86 . [Vaunt](https://github.com/marketplace/vaunt-dev)
+
+Vaunt is a fun way to show off your open-source skills! Developers can showcase their skills and achievements, while organizations can drive user contributions and highlight their different contributors.
+
+📍 For example :
+
+![](https://marketplace-screenshots.githubusercontent.com/github-production-marketplace-screenshot-16aed3/15274/47ef7a7d-3fa4-43f1-bd34-dbd16652f1fa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260609T074500Z&X-Amz-Expires=300&X-Amz-Signature=b06f9af9a58227a80b01b784cbabb46195d56136f596c6476621d55bd4035ce9&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9tYXJrZXRwbGFjZS1zY3JlZW5zaG90cy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDk5MTQwMCwibmJmIjoxNzgwOTkxMTAwLCJwYXRoIjoibWFya2V0cGxhY2Utc2NyZWVuc2hvdHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.PRtcOfsS8RN64UGw9mvV7v-lo_HGFwMjp16WtBNoGwI&response-content-disposition=attachment%3Bfilename%3DScreen.Shot.2023-05-15.at.10.23.16.AM.png&response-content-type=image%2Fpng)
+![](https://marketplace-screenshots.githubusercontent.com/github-production-marketplace-screenshot-16aed3/15274/804e2baa-20f8-4aa6-ba9c-b1c238a8a3ed?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260609T074500Z&X-Amz-Expires=300&X-Amz-Signature=e137227a42538e2f6c3670492314d929de6ef46b5ebdd6d7525b26aded0c9f3b&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9tYXJrZXRwbGFjZS1zY3JlZW5zaG90cy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDk5MTQwMCwibmJmIjoxNzgwOTkxMTAwLCJwYXRoIjoibWFya2V0cGxhY2Utc2NyZWVuc2hvdHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.PRtcOfsS8RN64UGw9mvV7v-lo_HGFwMjp16WtBNoGwI&response-content-disposition=attachment%3Bfilename%3DScreen.Shot.2023-05-21.at.5.26.34.AM.png&response-content-type=image%2Fpng)
+![](https://marketplace-screenshots.githubusercontent.com/github-production-marketplace-screenshot-16aed3/15274/34cadbd2-89bd-487f-99fd-2f635f5f9f88?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260609T074500Z&X-Amz-Expires=300&X-Amz-Signature=ab93d3ef5755f6fa44533fd684ea249389aeaf80780fbc36297850a0dbb208d4&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9tYXJrZXRwbGFjZS1zY3JlZW5zaG90cy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDk5MTQwMCwibmJmIjoxNzgwOTkxMTAwLCJwYXRoIjoibWFya2V0cGxhY2Utc2NyZWVuc2hvdHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.PRtcOfsS8RN64UGw9mvV7v-lo_HGFwMjp16WtBNoGwI&response-content-disposition=attachment%3Bfilename%3DScreen.Shot.2023-05-21.at.5.30.14.AM.png&response-content-type=image%2Fpng)
+
 #### Badges
 <p align="center">
   <img src="https://github.com/Anant-mishra1729/WakaDash/blob/main/media/daily_avg_badge.svg" width="200">
