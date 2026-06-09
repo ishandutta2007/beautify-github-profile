@@ -1554,7 +1554,7 @@ user-statistician generates a detailed visual summary of your activity on GitHub
 
 📍 For example :
 
-![](https://raw.githubusercontent.com/cicirello/user-statistician/samples/images/light.svg)
+<img src="https://raw.githubusercontent.com/cicirello/user-statistician/samples/images/light.svg" width="350">
 
 ### 86 . [GitHub Developer Score](https://github.com/yomi4486/github_stats)
 
@@ -1586,7 +1586,7 @@ Github action to print relevant stats about Pull Request reviewers
 
 📍 For example :
 
-![](https://raw.githubusercontent.com/flowwer-dev/pull-request-stats/refs/heads/dev/assets/historical.png)
+<img src="https://raw.githubusercontent.com/flowwer-dev/pull-request-stats/refs/heads/dev/assets/historical.png" width="700">
 
 ### 86 . [GitHub Language Stats](https://github.com/StefVuck/Github-Language-Stats)
 
@@ -1594,8 +1594,8 @@ Language Stats of your Private AND Public repos for your Readme/Project.
 
 📍 For example :
 
-![](https://raw.githubusercontent.com/StefVuck/Github-Language-Stats/refs/heads/main/examples/light-filtered/leaderboard_by_lines.png)
-![](https://raw.githubusercontent.com/StefVuck/Github-Language-Stats/refs/heads/main/examples/dark-filtered/bar_by_repos.png)
+<img src="https://raw.githubusercontent.com/StefVuck/Github-Language-Stats/refs/heads/main/examples/light-filtered/leaderboard_by_lines.png" width="500">
+<img src="https://raw.githubusercontent.com/StefVuck/Github-Language-Stats/refs/heads/main/examples/dark-filtered/bar_by_repos.png" width="500">
 
 ### 86 . [Vaunt](https://github.com/marketplace/vaunt-dev)
 
@@ -1603,9 +1603,9 @@ Vaunt is a fun way to show off your open-source skills! Developers can showcase 
 
 📍 For example :
 
-![](./vaunt-card.png)
-![](./vaunt-contributors.png)
-![](./vaunt-achievements.png)
+<img src="./vaunt-contributors.png" width="350">
+<img src="./vaunt-card.png" width="350">
+<img src="./vaunt-achievements.png" width="300">
 
 ---
 
