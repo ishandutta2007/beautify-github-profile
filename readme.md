@@ -104,14 +104,6 @@ Badges for your personal developer branding, profile, and projects.
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 
-### 3 . [View Count Badge](https://github.com/dwyl/hits)
-A badge generator service that counts views on your markdown file.
-
-📍 For example :
-<p align="center">
-  <img width=100 src="https://raw.githubusercontent.com/gist/FuseFairy/08a84ab3f44987ccf222c5d5844be075/raw/103de3c64da63c684caa2a931d415d2240ea421a/hits.svg" alt="View Count Badge">
-</p>
-
 ### 4 . [shields](https://shields.io/)
 Concise, consistent, and legible badges in SVG and raster format and Make tokens with custom values
 
@@ -163,8 +155,8 @@ It counts how many times your GitHub profile has been viewed. Free cloud micro-s
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e5970ff31233467b6196dc670259c9063b9089764c57ef617b2f6f08b733652e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="Profile views for the badge">
-  <img src="https://camo.githubusercontent.com/7bfef86b8b4870584490fde560525dfa604bd17221db50d2240036004238b655/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d706c6173746963" alt="Profile views for plastic style">
+  <img src="https://komarev.com/ghpvc/?username=rzashakeri&style=for-the-badge" alt="Profile views for the badge">
+  <img src="https://komarev.com/ghpvc/?username=rzashakeri" alt="Profile views for flat style">
 </p>
 
 ### 10 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
@@ -216,8 +208,9 @@ Github Action to update the badges of your Readme to show your current Advent of
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/81d3f35e8f7e0a24cbb896841193ade79bd816cc9219ba392c77b660cfca880e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6461792532302546302539462539332538352d32322d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/day%20%F0%9F%93%85-22-blue" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/b3ca9d063d391ea4c001bfc4b8b7a51a71db7526b89eaab26daefb364a958538/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73746172732532302545322541442539302d33342d79656c6c6f77" alt="" data-canonical-src="https://img.shields.io/badge/stars%20%E2%AD%90-34-yellow" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/day%20📅-22-blue" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/stars%20⭐-34-yellow" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/days%20completed-17-red" style="max-width: 100%;">
 </p>
 
 ### 16 . [Github Badges](https://github.com/eugustavo/github-badges)
@@ -225,7 +218,7 @@ Application made to create badges for your readme 📑
 
 📍 For example :
 <p align="center">
-  <img width=720 alt="GithubBadges" src="https://camo.githubusercontent.com/993ae7410b1c4df31b29daab1488dbc1b5f4eda058a98b6bfa630fcb79811e87/68747470733a2f2f692e696d6775722e636f6d2f695648666c4c552e676966" data-canonical-src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
+  <img width=720 alt="GithubBadges" src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
 </p>
 
 ### 17 . [Discord Md Badge](https://github.com/ashmonty/discord-md-badge)
@@ -233,7 +226,7 @@ Add to your GitHub readme a badge that shows your Discord username and presence!
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/825160e787748eb0e8d83afcb14b7d79b659e76b84f9eadfa4800104e454540a/68747470733a2f2f646362616467652e6c696d65732e70696e6b2f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.limes.pink/api/shield/852977967776399400?bot=true" style="max-width: 100%;">
+  <img src="https://dcbadge.limes.pink/api/shield/852977967776399400?bot=true" style="max-width: 100%;">
 </p>
 
 ### 18 . [simple badges](https://github.com/developStorm/simple-badges)
@@ -288,14 +281,6 @@ Once the package owner adds this badge to their README file, it will inform and 
   </a>
 </p>
 
-### 23 . [Peerlist Profile Badge](https://github.com/vinitshahdeo/peerlist-readme-badge)
-[Peerlist](https://peerlist.io/) is a community of working professionals focused on building a personal brand, sharing professional content, and finding peers to collaborate with. A [Peerlist profile](https://peerlist.io/vinitshahdeo) can be used as a simple resume or a complete portfolio to showcase your work. You can style your profile `README.md` with an awesome Peerlist markdown badge.
-
-📍 For example :
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gist/FuseFairy/1ac5accf1eb6e6e60db4208b6ed321ac/raw/3d2656abe18b0265ccc5f3fdef40b0f79b17b539/Peerlist.svg" alt="Peerlist">
-</p>
-
 ### 24 . [hits](https://github.com/silentsoft/hits)
 📈 Hit Counter for Your GitHub or Any Kind of Websites You Want. 
 
@@ -305,6 +290,7 @@ Once the package owner adds this badge to their README file, it will inform and 
 </p>
 
 ### 25 . [gradient badge](https://github.com/bokub/gradient-badge)
+   *The demo page doesn't work anymore. But you can still use the service via a url like this: `https://gradgen.bokub.workers.dev/npm/v/gradient-badge?gradient=b65cff,11cbfa`.*
 🍭 Badge generator with color gradient support
 
 📍 For example :
@@ -314,9 +300,6 @@ Once the package owner adds this badge to their README file, it will inform and 
   <img src="https://gradgen.bokub.workers.dev/badge/code%20style/prettier?gradient=ff94c8,cacfda,61eddb" alt="prettier">
   <img src="https://gradgen.bokub.workers.dev/github/checks/bokub/gradient-badge?gradient=ff9eec,d0a1fc" alt="build">
 </p>
-
-### 26 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge) *(may no longer working)*
-Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
 
 ### 27 . [GitHub Profile Views Counter](https://github.com/u8views/go-u8views/)
 
@@ -359,6 +342,33 @@ Stardev ranks every GitHub user and repository by language and location. You can
   </a>
 </p>
 
+### Outdated
+<details>
+ <summary><strong>Click to expand list</strong></summary>
+
+The servers of these projects are down. But they are still interesting for inspiration or forking.
+
+### 3 . [View Count Badge](https://github.com/dwyl/hits)
+A badge generator service that counts views on your markdown file.
+
+📍 For example :
+<p align="center">
+  <img width=100 src="https://raw.githubusercontent.com/gist/FuseFairy/08a84ab3f44987ccf222c5d5844be075/raw/103de3c64da63c684caa2a931d415d2240ea421a/hits.svg" alt="View Count Badge">
+</p>
+
+### 23 . [Peerlist Profile Badge](https://github.com/vinitshahdeo/peerlist-readme-badge)
+[Peerlist](https://peerlist.io/) is a community of working professionals focused on building a personal brand, sharing professional content, and finding peers to collaborate with. A [Peerlist profile](https://peerlist.io/vinitshahdeo) can be used as a simple resume or a complete portfolio to showcase your work. You can style your profile `README.md` with an awesome Peerlist markdown badge.
+
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/FuseFairy/1ac5accf1eb6e6e60db4208b6ed321ac/raw/3d2656abe18b0265ccc5f3fdef40b0f79b17b539/Peerlist.svg" alt="Peerlist">
+</p>
+
+### 26 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
+Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
+
+</details>
+
 ---
 
 </details>
@@ -380,8 +390,8 @@ Dynamically generated stats for your github readmes
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/166adcf892a44c18c2ec02b4a1407de460cd2d3acc2e3e758551d75960fc04cc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539353137343533362f6772732d7468656d65735f6c34796e6a612e706e67" alt="GitHub Readme Stats Themes" data-canonical-src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" style="max-width: 100%;" width=400>
-  <img src="https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" style="max-width: 100%;" width=400>
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" style="max-width: 100%;" width=400>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="max-width: 100%;" width=400>
 </p>
 
 ### 3 . [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -389,7 +399,7 @@ Stay motivated and show off your contribution streak! 🌟 Display your total co
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/71f09e679332b2850c04d371db60863647f9be8b2bf207d9bb3d3aed57c9033f/68747470733a2f2f692e696d6775722e636f6d2f496154755964532e706e67" alt="default" data-canonical-src="https://i.imgur.com/IaTuYdS.png" style="max-width: 100%;" width=400>
+  <img src="https://i.imgur.com/IaTuYdS.png" style="max-width: 100%;" width=400>
 </p>
 
 ### 4 . [waka readme](https://github.com/athul/waka-readme)
@@ -468,7 +478,7 @@ Dynamically generated your latest Medium article on your GitHub readmes!
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4f9c4f9b776c53aad3d107e3d0bb4570754d573245ac9907a1cf71c04bcb8252/68747470733a2f2f6769746875622d726561646d652d6d656469756d2e76657263656c2e6170702f3f757365726e616d653d6f6d69646e696b726168" alt="Omid Nikrah Medium" data-canonical-src="https://github-readme-medium.vercel.app/?username=omidnikrah" style="max-width: 100%;">
+  <img src="https://github-readme-medium.vercel.app/?username=omidnikrah" style="max-width: 100%;">
 </p>
 
 ### 13 . [Github Readme Stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
@@ -476,16 +486,8 @@ Dynamically generated your StackOverflow status on your GitHub READMEs!
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/79fdba08469306d8fb6cafbbe9fd3024ba636127c15c3031ebb2107e25c77936/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" style="max-width: 100%;"><br>
-  <img src="https://camo.githubusercontent.com/6ef9cbb8e45a780b514149ee7ad39b57b117369a84e0f84dc6e2461ef59b0125/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432266c61796f75743d636f6d70616374" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&amp;layout=compact" style="max-width: 100%;">
-</p>
-
-### 14 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
-Showcase your github stats on your profile README.md
-
-📍 For example :
-<p align="center">
-  <img src="readme.png" width=720 alt="readme.png">
+  <img alt="Omid Nikrah StackOverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" style="max-width: 100%;"><br>
+  <img alt="Omid Nikrah StackOverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&amp;layout=compact" style="max-width: 100%;">
 </p>
 
 ### 15 . [Readme Jokes](https://github.com/ABSphreak/readme-jokes)
@@ -493,7 +495,7 @@ Showcase your github stats on your profile README.md
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9f659e6f3472c938acaec6a1eff134d6bbb54a25ae99fddd539a2f9a21464d26/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f68696465426f72646572" alt="Jokes Card" data-canonical-src="https://readme-jokes.vercel.app/api?hideBorder" style="max-width: 100%;">
+  <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder" style="max-width: 100%;">
 </p>
 
 ### 16 . [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
@@ -502,18 +504,7 @@ Add dynamically generated GitHub Stat Trophies on your readme
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/3e8683c8b94c82eac14665d110e77b1cfc30b3da97ebec221a77d39c5b001603/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ryo-ma&amp;column=8&amp;rank=SSS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;" alt="Github Profile Trophy">
-</p>
-
-### 17 . [Random Memer](https://github.com/techytushar/random-memer)
-Returns random meme images scraped from Memedroid
-
-### 18 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-Google lighthouse stats of your website that you can put in readme
-
-📍 For example :
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" width=720 alt="Readme Pagespeed Insights">
+  <img src="https://user-images.githubusercontent.com/6661165/92325601-039b9300-f087-11ea-983a-fce8133549ee.png" style="max-width: 100%;" alt="Github Profile Trophy">
 </p>
 
 ### 19 . [REHeader](https://github.com/khalby786/REHeader)
@@ -521,15 +512,7 @@ Generate beautiful header images for your GitHub profile READMEs.
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2f031e5cb08b20a5ac5d2237beb0a773caad1bd380c7bdb7e2db294dbb75e442/68747470733a2f2f63646e2e676c697463682e636f6d2f30613466363732652d376435632d343235342d386635612d38343763323932346264663625324653637265656e25323053686f74253230323032302d30372d31372532306174253230352e31392e3138253230504d2e706e673f763d31353934393931393934353038" alt="Another image which is a use case of this generator - again you shouldn't be seeing this" data-canonical-src="https://cdn.glitch.com/0a4f672e-7d5c-4254-8f5a-847c2924bdf6%2FScreen%20Shot%202020-07-17%20at%205.19.18%20PM.png?v=1594991994508" width=720>
-</p>
-
-### 20 . [Goodreads Readme](https://github.com/arg3t/goodreads-readme)
-This project provides a badge for sharing your current book in your github profile.
-
-📍 For example :
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0dadae5bda922ccb51b880482bddfc4fc04c9630871cd60d30c2417e346e1c32/68747470733a2f2f676f6f6472656164732d726561646d652e76657263656c2e6170702f6170692f626f6f6b" alt="GoodReads" data-canonical-src="https://goodreads-readme.vercel.app/api/book" style="max-width: 100%;">
+  <img alt="Another image which is a use case of this generator - again you shouldn't be seeing this" src="https://cdn.glitch.com/0a4f672e-7d5c-4254-8f5a-847c2924bdf6%2FScreen%20Shot%202020-07-17%20at%205.19.18%20PM.png?v=1594991994508" width=720>
 </p>
 
 ### 21 . [Readme Typing svg](https://github.com/DenverCoder1/readme-typing-svg)
@@ -537,7 +520,7 @@ Dynamically generated, customizable SVG that gives the appearance of typing and 
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/625cb0ef178479b65b71867f7079b1c667e152a14406023368be872b92a9ba99/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d547970652b6d657373616765732b65766572797768657265213b4164642b612b62696f2b746f2b796f75722b70726f66696c65213b4164642b612b6465736372697074696f6e2b746f2b796f75722b7265706f213b4d616b652b796f75722b726561646d652b7374616e642b6f75742126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530266475726174696f6e3d343030302670617573653d31303030" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&amp;font=Fira%20Code&amp;center=true&amp;width=380&amp;height=50" style="max-width: 100%;" alt="Readme Typing svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&amp;font=Fira%20Code&amp;center=true&amp;width=380&amp;height=50" style="max-width: 100%;" alt="Readme Typing svg">
 </p>
 
 ### 22 . [Awesome Github Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
@@ -593,7 +576,7 @@ Create a nice pie chart with the user's programming languages from their GitHub 
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f9e08688f77e246e9d46ada748453857c39f3f7d4d70160ea66ce1c4afe0c8cf/687474703a2f2f692e696d6775722e636f6d2f514736476835492e706e67" alt="github-profile-languages" data-canonical-src="http://i.imgur.com/QG6Gh5I.png" width=720>
+  <img alt="github-profile-languages" src="http://i.imgur.com/QG6Gh5I.png" width=720>
 </p>
 
 ### 29 . [Github Profile 3d Contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
@@ -954,18 +937,6 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 ### 32 . [Action Devcard](https://github.com/dailydotdev/action-devcard)
 GitHub Action to download the devcard from https://daily.dev
 
-### 33 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
-Pimp my README is an open source profile builder that you can use to add some cool components to your README profile - Made with <3 by webapp.io :)
-
-📍 For example :
-<p align="center">
-  <a href="https://pimp-my-readme-next.vercel.app">
-    <img src="https://raw.githubusercontent.com/gist/FuseFairy/985aa15b77de6dee554fec4bb488432b/raw/5b89693334fd36defc0867f4e243c4405d267ae2/pimp-my-readme-1.svg" alt="sliding-text"><br>
-    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/769ce411f10708b20ee06325b3d75c8e/raw/dbb60adc2f25eb687fc7d75d17836e28b31fed16/pimp-my-readme-2.svg" alt="wavy-banner"><br>
-    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/3adf6ec5f5f68e80c4b9c36b0645cf39/raw/dd3c10cf1ca28dff0a11aa6dd3b581f22e8981c0/pimp-my-readme-3.svg" alt="technology">
-  </a>
-</p>
-
 ### 34 . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
 Generate an image of all your Github contributions
 
@@ -974,29 +945,13 @@ Generate an image of all your Github contributions
   <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676" alt="GitHub Contribution Chart Generato">
 </p>
 
-### 35 . [Wrapped](https://github.com/neat-run/wrapped)
-GitHub Wrapped, inspired by Spotify Wrapped
-
-📍 For example :
-<p align="center">
-  <img src="wrapped.png" style="max-width: 100%;" max-width="100%" alt="Wrapped">
-</p>
-
 ### 36 . [GitHub Spray](https://github.com/Annihil/github-spray)
 Draw on your GitHub contribution graph ░▒▓█
 
 📍 For example : &nbsp;
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f7037efcd0460ea9248915d9c3f9a37c9677541bb0db1dfe58e5152be030877c/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" height="200" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</p>
-
-### 37 . [Github Trends](https://github.com/avgupta456/github-trends)
-Level up your GitHub profile readme with customizable cards including LOC statistics!
-
-📍 For example :
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" width=720>
+  <img height="200" alt="GitHub Spray logo" src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
 ### 38 . [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
@@ -1004,7 +959,7 @@ Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0ebb5d745e06cb5d53a127e7161b387ce7f71c155359689436bdf404ca53b7fa/68747470733a2f2f6769746875622d726561646d652d71756f7465732d6261792e76657263656c2e6170702f71756f74653f7468656d653d6461726b" alt="Quote" data-canonical-src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" style="max-width: 100%;">
+  <img alt="Quote" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" style="max-width: 100%;">
 </p>
 
 ### 39 . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
@@ -1033,7 +988,7 @@ Add Your Recently Published Medium Articles to Your GitHub Readme
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/719ae4cf8732c9493945d055525838c237aede36e0d1ab2661da037093409528/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f40696d616e74756d6f72616e672f30" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" style="max-width: 100%;">
+  <img alt="Recent Article 0" src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" style="max-width: 100%;">
 </p>
 
 ### 42 . [Github Widgetbox](https://github.com/Jurredr/github-widgetbox)
@@ -1041,7 +996,7 @@ Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/28d5c64c5e4dbf39bbe263d997b18d4e31595cd4034c1bb0b73c97e561d15b0b/68747470733a2f2f6769746875622d776964676574626f782e76657263656c2e6170702f6170692f70726f66696c653f757365726e616d653d4a75727265647226646174613d666f6c6c6f776572732c7265706f7369746f726965732c73746172732c636f6d6d697473" alt="GitHub WidgetBox" data-canonical-src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&amp;data=followers,repositories,stars,commits" style="max-width: 100%;">
+  <img alt="GitHub WidgetBox" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits" style="max-width: 100%;">
 </p>
 
 ### 43 . [lastfm Recently Played Readme](https://github.com/JeffreyCA/lastfm-recently-played-readme)
@@ -1049,7 +1004,7 @@ Display your recent Last.fm scrobbles on your GitHub profile README.
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a7811545b488e520ae7c8966a9e44707e01ef448793241df79290b3da770aaa4/68747470733a2f2f6c617374666d2d726563656e746c792d706c617965642e76657263656c2e6170702f6170693f757365723d4a65666672657943413031" alt="My scrobbles" data-canonical-src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01" style="max-width: 100%;">
+  <img alt="My scrobbles" src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01" style="max-width: 100%;">
 </p>
 
 ### 44 . [Github Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style)
@@ -1089,7 +1044,7 @@ Some cool ideas for your readme profile, enjoy :) and You can access cool gifs t
 
 📍 For example :
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5bbfd7fa05e605122514f98b289be5cf7516c98ac9589f1045ecfb446716e65f/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270"><img src="https://camo.githubusercontent.com/5bbfd7fa05e605122514f98b289be5cf7516c98ac9589f1045ecfb446716e65f/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="100" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b1dcbf1c23a05137ae7c7fdf544082550382791048ee360022c288b87f022d6d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270"><img src="https://camo.githubusercontent.com/b1dcbf1c23a05137ae7c7fdf544082550382791048ee360022c288b87f022d6d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a18d3aba14bbdeef2606fca1b949f7308a624d7e507c043debca20c356a3a50c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"><img src="https://camo.githubusercontent.com/a18d3aba14bbdeef2606fca1b949f7308a624d7e507c043debca20c356a3a50c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="100" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73b042f1325c63c0ff78038f8701f9aad93061d0e4d451dbcf20cf9983dfc660/68747470733a2f2f692e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f3230302e77656270"><img src="https://camo.githubusercontent.com/73b042f1325c63c0ff78038f8701f9aad93061d0e4d451dbcf20cf9983dfc660/68747470733a2f2f692e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d836bdf99ae38079781e3ed1891705f7223441c523246e420043695376ef3f93/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"><img src="https://camo.githubusercontent.com/d836bdf99ae38079781e3ed1891705f7223441c523246e420043695376ef3f93/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" width="100" data-canonical-src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/95ba85a45e80fc7ac6f84a1910494b774d3ec416bcd135db38dbc9e860681365/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"><img src="https://camo.githubusercontent.com/95ba85a45e80fc7ac6f84a1910494b774d3ec416bcd135db38dbc9e860681365/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a081916054e9c455c6a9c35e040a2a4a6202a5baeddb28d010fd607bb0cd1d1b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://camo.githubusercontent.com/a081916054e9c455c6a9c35e040a2a4a6202a5baeddb28d010fd607bb0cd1d1b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width: 100%;"></a>
+  <img width="100" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width: 100%;"><img width="100" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width: 100%;"><img width="100" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;"><img width="100" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" style="max-width: 100%;"><img width="100" src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" style="max-width: 100%;"><img width="100" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width: 100%;"><img width="100" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width: 100%;"></a>
 </p>
 
 ### 49 . [Capsule Render](https://github.com/kyechan99/capsule-render)
@@ -1097,43 +1052,8 @@ Dynamic Coloful Image Render
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9ae4d73008cd3b0fa09765f12065ba96cadf09d0930c222fd95bf69c593addc8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3330302673656374696f6e3d68656164657226746578743d63617073756c6525323072656e64657226666f6e7453697a653d393026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d4465636f7261746525323047697448756225323050726f66696c652532306f72253230616e792532305265706f2532306c696b652532306d65212664657363416c69676e593d35312664657363416c69676e3d3632" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=capsule%20render&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&amp;descAlignY=51&amp;descAlign=62" style="max-width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62" style="max-width: 100%;">
 </p>
-
-### 50 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
-Show npm packages downloads ⏬ in GitHub README
-
-📍 For example :
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Downloads</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://www.npmjs.com/package/post-merge-install" rel="nofollow">post-merge-install</a></td>
-<td>185021</td>
-</tr>
-<tr>
-<td><a href="https://www.npmjs.com/package/types-directory" rel="nofollow">types-directory</a></td>
-<td>59207</td>
-</tr>
-<tr>
-<td><a href="https://www.npmjs.com/package/install-types" rel="nofollow">install-types</a></td>
-<td>23071</td>
-</tr>
-<tr>
-<td><a href="https://www.npmjs.com/package/engines-ok" rel="nofollow">engines-ok</a></td>
-<td>19752</td>
-</tr>
-<tr>
-<td><a href="https://www.npmjs.com/package/npmtotal" rel="nofollow">npmtotal</a></td>
-<td>18267</td>
-</tr>
-</tbody>
-</table>
 
 ---
 
@@ -1147,7 +1067,7 @@ Dynamically generated Github Contribution Stats. 📈 📆
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9f6e8d52bfe1edb25864dc69043d9d35aef73695f403a372214801f5338654e8/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d6776616e726f7373756d" alt="Contribution Stats" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=gvanrossum" style="max-width: 100%;">
+  <img alt="Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=gvanrossum" style="max-width: 100%;">
 </p>
 
 ### 52 . [Github Star History](https://github.com/bytebase/star-history)
@@ -1249,7 +1169,7 @@ Styled banners for your Readme made with html/css in SVG !!
 
 📍 For example :
 <div align="center">
-  <div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06591fdcad0985741be7573b2755eb8b2d89b83ef1e4b1456abecc1f0f075f76/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72657363726970742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/06591fdcad0985741be7573b2755eb8b2d89b83ef1e4b1456abecc1f0f075f76/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72657363726970742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/rescript-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3293285324c7f76311f1add9c368c20721954f4db6f051eb39c8ffe3d67cfd46/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73776966742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3293285324c7f76311f1add9c368c20721954f4db6f051eb39c8ffe3d67cfd46/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73776966742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/swift-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667"><img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94ff27c17f249c089fdd1e76649652231580609e808474ef7e00d7bf07d2b926/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6761747362792d69636f6e2e737667"><img src="https://camo.githubusercontent.com/94ff27c17f249c089fdd1e76649652231580609e808474ef7e00d7bf07d2b926/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6761747362792d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/gatsby-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/sass-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/storybook-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/webpack-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/67bff4aa0dd5025bd4b1047ae04dd9af0d3aeaccf1ce4d6959e09d219b3ec1c4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/67bff4aa0dd5025bd4b1047ae04dd9af0d3aeaccf1ce4d6959e09d219b3ec1c4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/eslint-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a95d31496a4911b9db7710776577cf7ec2158d2813511eb9862e38654de1e3b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/4a95d31496a4911b9db7710776577cf7ec2158d2813511eb9862e38654de1e3b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/prettier-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/jest-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b80747215c0d23a4ce8dca6856047504ffbffc8cf565f86740d1a59ccbd3b89a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74657374696e676c6962726172792d69636f6e2e737667"><img src="https://camo.githubusercontent.com/b80747215c0d23a4ce8dca6856047504ffbffc8cf565f86740d1a59ccbd3b89a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74657374696e676c6962726172792d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/graphql-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fb8c7cad55c2ac1f2f94927172a2fd43f1ca48993952ac62f87684664309ee1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6b756265726e657465732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9fb8c7cad55c2ac1f2f94927172a2fd43f1ca48993952ac62f87684664309ee1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6b756265726e657465732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/kubernetes-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667"><img src="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/nginx-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ecf1680b5f353ba660494e70350fe01312fef1fc281534e8eef11902cb43ca04/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72617370626572727970692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ecf1680b5f353ba660494e70350fe01312fef1fc281534e8eef11902cb43ca04/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72617370626572727970692d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;"></a></div>
+  <div dir="auto"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/rescript-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/swift-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/gatsby-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/sass-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/storybook-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/webpack-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/eslint-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/prettier-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/jest-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/graphql-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/kubernetes-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/nginx-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" style="max-width: 100%;"><img alt="icon" width="65" height="65" src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;"></div>
 </div>
 
 ### 62 . [GitHub Achievements](https://github.com/drknzz/GitHub-Achievements)
@@ -1376,6 +1296,7 @@ The countdown timer is based on the end date and time in a specific time zone.
 </p>
 
 ### 76 . [Repo Roster](http://reporoster.com/)
+*The urls generated by this service are broken. But if you replace "https" by "http" in the urls, they work. For example: `http://reporoster.com/stars/rzashakeri/beautify-github-profile`
 Shout-out supporters in your GitHub README file.
 
 📍 For example :
@@ -1395,15 +1316,7 @@ Another Cute View Counter.
 
 📍 For example :
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@index" alt="Moe Counter">
-</p>
-
-### 78 . [Star History](https://github.com/lucabubi/star-history)
-A Stunning star history chart generator for Github Repositories 
-
-📍 For example :
-<p align="center">
-  <img src="https://api.star-history.com/svg?repos=mdn/js-examples&type=Date" alt="Red Chart">
+  <img src="https://count.getloli.com/get/@index" alt="Moe Counter">
 </p>
 
 ### 79 . [Subreddit Memes](https://github.com/trinib/Subreddit-Memes)
@@ -1431,16 +1344,13 @@ Get dynamically generated your github repository contribution stats on your READ
   <img src="https://github-contributor-stats.vercel.app/api?username=HwangTaehyun" alt="Taehyun's GitHub Repository Contribution stats">
 </p>
 
-### 82 . [Code Statistic](https://github.com/zmh-program/code-statistic)
-Dynamically generate your GitHub statistic card! The user card is used to count the languages of all projects under the user and generate statistics, calculate total stars earned, forks acquired, followers, watchers, number of open issues, etc.
-
 ### 83 . [Bentohub](https://github.com/amittam104/BentoHub)
 BentoHub is an app where you can create a bento grid and copy-paste the html or markdown code on to your github profile readme.
 
 📍 For example :
 <p align="center">
   <a href="https://bentohub.netlify.app/">
-    <img width=720 src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c" alt="BentoHub grid image">
+    <img width=720 src="https://imgur.com/a/12WJa8M" alt="BentoHub grid image">
   </a>
 </p>
 
@@ -1535,6 +1445,116 @@ A simple badge to display your followers, stars, and repositories
 
 ![GitHub Stats](https://profile-stats-xleb.vercel.app/api/badge.svg?username=torvalds&show_username=true&theme=coal)
 
+
+### Outdated
+<details>
+ <summary><strong>Click to expand list</strong></summary>
+
+The servers of these projects are down. But they are still interesting for inspiration or forking.
+
+### 14 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
+Showcase your github stats on your profile README.md
+
+📍 For example :
+<p align="center">
+  <img src="readme.png" width=720 alt="readme.png">
+</p>
+
+### 17 . [Random Memer](https://github.com/techytushar/random-memer)
+Returns random meme images scraped from Memedroid
+
+### 18 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+Google lighthouse stats of your website that you can put in readme
+
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" width=720 alt="Readme Pagespeed Insights">
+</p>
+
+### 20 . [Goodreads Readme](https://github.com/arg3t/goodreads-readme)
+This project provides a badge for sharing your current book in your github profile.
+
+📍 For example :
+<p align="center">
+  <img alt="GoodReads" src="https://goodreads-readme.vercel.app/api/book" style="max-width: 100%;">
+</p>
+
+### 33 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
+Pimp my README is an open source profile builder that you can use to add some cool components to your README profile - Made with <3 by webapp.io :)
+
+📍 For example :
+<p align="center">
+  <a href="https://pimp-my-readme-next.vercel.app">
+    <img src="https://raw.githubusercontent.com/gist/FuseFairy/985aa15b77de6dee554fec4bb488432b/raw/5b89693334fd36defc0867f4e243c4405d267ae2/pimp-my-readme-1.svg" alt="sliding-text"><br>
+    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/769ce411f10708b20ee06325b3d75c8e/raw/dbb60adc2f25eb687fc7d75d17836e28b31fed16/pimp-my-readme-2.svg" alt="wavy-banner"><br>
+    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/3adf6ec5f5f68e80c4b9c36b0645cf39/raw/dd3c10cf1ca28dff0a11aa6dd3b581f22e8981c0/pimp-my-readme-3.svg" alt="technology">
+  </a>
+</p>
+
+### 35 . [Wrapped](https://github.com/neat-run/wrapped)
+GitHub Wrapped, inspired by Spotify Wrapped
+
+📍 For example :
+<p align="center">
+  <img src="wrapped.png" style="max-width: 100%;" max-width="100%" alt="Wrapped">
+</p>
+
+### 37 . [Github Trends](https://github.com/avgupta456/github-trends)
+Level up your GitHub profile readme with customizable cards including LOC statistics!
+
+📍 For example :
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" width=720>
+</p>
+
+### 50 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
+Show npm packages downloads ⏬ in GitHub README
+
+📍 For example :
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.npmjs.com/package/post-merge-install" rel="nofollow">post-merge-install</a></td>
+<td>185021</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/types-directory" rel="nofollow">types-directory</a></td>
+<td>59207</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/install-types" rel="nofollow">install-types</a></td>
+<td>23071</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/engines-ok" rel="nofollow">engines-ok</a></td>
+<td>19752</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/npmtotal" rel="nofollow">npmtotal</a></td>
+<td>18267</td>
+</tr>
+</tbody>
+</table>
+
+### 78 . [Star History](https://github.com/lucabubi/star-history)
+A Stunning star history chart generator for Github Repositories
+
+📍 For example :
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=mdn/js-examples&type=Date" alt="Red Chart">
+</p>
+
+### 82 . [Code Statistic](https://github.com/zmh-program/code-statistic)
+Dynamically generate your GitHub statistic card! The user card is used to count the languages of all projects under the user and generate statistics, calculate total stars earned, forks acquired, followers, watchers, number of open issues, etc.
+
+</details>
+
 </details>
   
 ## ✅ Icons 👇
@@ -1585,7 +1605,7 @@ Showcase your skills on your Github readme or resumé with ease ✨
 
 📍 For example :
 <p align="center">
-  <img src="https://camo.githubusercontent.com/7b4c1ded34735535305ebd0bb3b9b1989b3f62cb476d768ae799dadf2b1cb323/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f6170702e706e67" width="720" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;">
+  <img width="720" alt="Profile Readme Generator" src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;">
 </p>
 
 ### 2 . [Profileme Dev](https://github.com/danielcranney/profileme-dev)
@@ -1640,11 +1660,11 @@ GitHub profile readme generator allows you to create nice and simple GitHub prof
 
 📍 For example :
 <p align="center">
-  <img width=720 src="https://camo.githubusercontent.com/8aa60ecdb02b91d9912b79245dd79eee4013b917a39a2400da7db31f30647a48/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f6769662e6769663f763d313233" alt="Github readme generator" data-canonical-src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123">
+  <img width=720 alt="Github readme generator" src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123">
 </p>
 
 
-### 9 . [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
+### 9 . [Github Profile Readme Generator](https://rahuldkjain.github.io/github-profile-readme-generator)
 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 
 📍 For example :
